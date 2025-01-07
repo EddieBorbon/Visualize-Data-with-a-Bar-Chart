@@ -7,6 +7,8 @@
 ## Project Description
 This project is an interactive visualization of the United States Gross Domestic Product (GDP) from 1947 to 2015. It uses the D3.js library to create a bar chart that displays the data in a clear and engaging way. The design is modern and futuristic, with visual effects that enhance the user experience.
 
+Live Demo: [https://eddieborbon.github.io/Visualize-Data-with-a-Bar-Chart/](https://eddieborbon.github.io/Visualize-Data-with-a-Bar-Chart/)
+
 ## Key Features
 - **Interactive Bar Chart:** Displays the U.S. GDP over time.
 - **Dynamic Tooltip:** Hover over the bars to see detailed information (date and GDP value).
